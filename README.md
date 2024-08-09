@@ -18,8 +18,8 @@ This Node.js script uses the `whatsapp-web.js` library to find and list the IDs 
 1. Clone the repository or download the script.
 
     ```bash
-    git clone https://github.com/yourusername/whatsapp-group-id-finder.git
-    cd whatsapp-group-id-finder
+    git clone https://github.com/lyvioo/groupidwhatsapp
+    cd groupidwhatsapp
     ```
 
 2. Install the required dependencies.
