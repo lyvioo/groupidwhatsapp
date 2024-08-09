@@ -33,7 +33,7 @@ This Node.js script uses the `whatsapp-web.js` library to find and list the IDs 
 1. Run the script:
 
     ```bash
-    node getGroupID.js
+    node groupid-wpp.js
     ```
 
 2. Scan the QR code that appears in your terminal with your WhatsApp mobile app to authenticate.
